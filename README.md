@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ranishad/leet-codes/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ranishad/leet-codes/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ranishad/leet-codes/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ranishad/leet-codes/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ranishad/leet-codes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
