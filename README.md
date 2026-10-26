@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ranishad/leet-codes/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/ranishad/leet-codes/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ranishad/leet-codes/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/ranishad/leet-codes/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
