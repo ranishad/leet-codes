@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ranishad/leet-codes/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ranishad/leet-codes/tree/master/0202-happy-number) |
+| [2469-convert-the-temperature](https://github.com/ranishad/leet-codes/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
